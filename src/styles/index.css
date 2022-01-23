@@ -73,3 +73,12 @@
 .toutiao-shoucang:before {
   content: "\e61e";
 }
+body {
+  background-color: #f5f7f9;
+}
+.page-nav-bar {
+  background-color: #3296fa;
+}
+.page-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
