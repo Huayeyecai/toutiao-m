@@ -3188,6 +3188,11 @@
   "resolved" "https://registry.npmmirror.com/date-fns/download/date-fns-1.30.1.tgz"
   "version" "1.30.1"
 
+"dayjs@^1.10.7":
+  "integrity" "sha512-P6twpd70BcPK34K26uJ1KT3wlhpuOAPoMwJzpsIWUxHZ7wpmbdZL/hQqBDfz7hGurYSa5PhzdhDHtt319hL3ig=="
+  "resolved" "https://registry.npmmirror.com/dayjs/-/dayjs-1.10.7.tgz"
+  "version" "1.10.7"
+
 "de-indent@^1.0.2":
   "integrity" "sha1-sgOOhG3DO6pXlhKNCAS0VbjB4h0="
   "resolved" "https://registry.nlark.com/de-indent/download/de-indent-1.0.2.tgz"
