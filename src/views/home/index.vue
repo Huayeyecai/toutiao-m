@@ -9,6 +9,7 @@
     size="small"
     round
     icon="search"
+    to="/search"
     >搜索</van-button>
   </van-nav-bar>
 
@@ -71,7 +72,7 @@ export default {
     return {
       active: 0,
       channels: [], // 频道列表
-      isChannelEditShow: true // 控制编辑频道弹出层的现实状态
+      isChannelEditShow: false // 控制编辑频道弹出层的现实状态
     }
   },
   computed: {
