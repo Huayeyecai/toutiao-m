@@ -56,7 +56,7 @@ export default {
         }
         this.$emit('input', !this.value)
         // this.article.is_collected = !this.article.is_collected
-        this.$toast.success(this.value ? '收藏成功' : '取消收藏')
+        this.$toast.success(this.value ? '取消收藏' : '收藏成功')
       } catch (err) {
         console.log(err)
         this.$toast.fail('操作失败，请重新尝试')

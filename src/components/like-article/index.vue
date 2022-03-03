@@ -51,6 +51,7 @@ export default {
         console.log(err)
         this.$toast.fail('操作失败，请重新尝试')
       }
+      this.loading = false
     }
   }
 }
